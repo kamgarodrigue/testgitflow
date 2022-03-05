@@ -1,0 +1,4 @@
+#git flow init
+#  git flow feature start [nom de la fonctionalite] helofeature
+#  git flow feature finish helofeature
+#git flow release start 0.1.0
